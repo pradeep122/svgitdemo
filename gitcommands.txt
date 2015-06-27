@@ -1,0 +1,3 @@
+git init    # it initializes the git repository.
+git add test.py
+git status	# it give the status of the current repository
