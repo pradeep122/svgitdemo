@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 pradeep is presenting - tesing the conflicts 
+=======
+pradeep is presenting
+Raja is presenting
+Dinesh is listening and practising.
+SrinivasM is practising.....
+>>>>>>> 7f18d6537e2338ccdbdf113586811d1433b30410
