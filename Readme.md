@@ -43,5 +43,6 @@ Distributed - de-centralisation and collaboration
 
     Pull requests
 
+    commiting  from github
 
-
+    
